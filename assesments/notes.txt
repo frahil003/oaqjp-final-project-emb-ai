@@ -1,2 +1,6 @@
+URL to README.md
 https://github.com/frahil003/oaqjp-final-project-emb-ai/blob/main/README.md
+
+URL to __init__.py
+https://github.com/frahil003/oaqjp-final-project-emb-ai/blob/main/EmotionDetection/__init__.py
 
